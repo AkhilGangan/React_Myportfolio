@@ -15,8 +15,7 @@ const Home = () => {
                         I'm a Full Stack Developer
                     </h2>
                     <p className="text-gray-500 py-4 max-w-md">
-                        I'm a skilled software developer with experience in JavaScript.
-                        Currently exploring various frameworks such as React, Vue and Angular.
+                    I'm a dedicated and skilled software developer with a strong foundation in JavaScript. Currently exploring various frameworks such as React, Vue and Angular.
                     </p>
 
                     <div>
