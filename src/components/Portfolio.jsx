@@ -16,21 +16,21 @@ const Portfolio = () => {
       src: FlipkartImage,
       Name: 'FlipkartClone',
       Demo:"https://ecommercekart.vercel.app/",
-      Code:"https://github.com/AkhilGangan/ECommerce-Website-FlipcartClone_Server",
+      Code:"https://github.com/AkhilGangan/MERN_Stack_Projects/tree/main/ECommerce-Website",
     },
     {
       id: 2,
       src: FileSharingImage,
       Name: 'File-sharingsite',
       Demo:"https://filesharingweb.vercel.app/",
-      Code:"https://github.com/AkhilGangan/File_Sharing_Server",
+      Code:"https://github.com/AkhilGangan/MERN_Stack_Projects/tree/main/FILE%20SHARING%20APP",
     },
     {
       id: 3,
       src: TodoImage,
       Name: 'TodoList',
       Demo:"https://mytodolistweb.vercel.app/",
-      Code:"https://github.com/AkhilGangan/Todo_List_Server",
+      Code:"https://github.com/AkhilGangan/MERN_Stack_Projects/tree/main/TODO%20LIST%20APP",
     },
   ];
 
